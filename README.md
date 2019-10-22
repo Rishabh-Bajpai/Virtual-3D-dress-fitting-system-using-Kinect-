@@ -14,5 +14,9 @@ Features:
 - Requires less space (2-3m)
 - Easy installation
 
+Techonolgy used:
+- Kinect sensor and Unity 3D is used for 3-D version of the system
+- Python and openCV for 2-D version of the system
+
 Video of the prototype is present in the root folder
 The final product is under progress.
