@@ -12,10 +12,10 @@ Features:
 - Easy data uploading (takes less than 5 minutes for customers and needs only 5 photos of the dress)
 - Fast and accurate
 - Requires less space (2-3m)
-- Easy installation
+- Easy to install
 
 Techonolgy used:
-- Kinect sensor and Unity 3D is used for 3-D version of the system
+- Kinect sensor and Unity 3D are used for 3-D version of the system
 - Python and openCV for 2-D version of the system
 
 Video of the prototype is present in the root folder
